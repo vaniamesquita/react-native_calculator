@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#F0f0f0',
         textAlign: 'center',
         borderWidth: 1,
-        borderColor: '#888'
+        borderColor: '#887'
     }
 })
 

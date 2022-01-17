@@ -26,7 +26,7 @@ export default class App extends Component {
           <Button label="=" />
         </View>
       </SafeAreaView>
-    )
+    );
   }
 }
 
@@ -36,6 +36,6 @@ const styles = StyleSheet.create({
   },
   buttons: {
     flexDirection: 'row',
-    flexWrap: 'wrap'
-  }
+    flexWrap: 'wrap',
+  },
 });
